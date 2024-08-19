@@ -1,0 +1,3 @@
+langchain>=1.0
+langchain-core>=1.0
+langchain-text-splitters>=1.0
